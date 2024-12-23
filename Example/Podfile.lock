@@ -1,0 +1,16 @@
+PODS:
+  - GXMasonry (2.0.0)
+
+DEPENDENCIES:
+  - GXMasonry (from `../`)
+
+EXTERNAL SOURCES:
+  GXMasonry:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GXMasonry: 20a5b9dac6887e0c58f3c9cad775a46010bf6624
+
+PODFILE CHECKSUM: 2182f148ef901b478dfe2770f82d970512cf7a7e
+
+COCOAPODS: 1.16.2
